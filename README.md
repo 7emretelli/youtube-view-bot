@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-With this bot, you can you can increase your Youtube video viewing. You can also open your "Money Earning" section in youtube with this bot
+With this bot, you can increase your Youtube video viewing. You can also open your "Money Earning" section in youtube with this bot
 
 # Used Libraries
   - Time
